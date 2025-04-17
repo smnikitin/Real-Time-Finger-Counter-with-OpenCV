@@ -50,8 +50,8 @@ pip install opencv-python numpy scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/finger-counter-opencv.git
-cd finger-counter-opencv
+git clone https://github.com/smnikitin/Real-Time-Finger-Counter-with-OpenCV.git
+cd Real-Time-Finger-Counter-with-OpenCV
 ```
 
 2. Run the script:
