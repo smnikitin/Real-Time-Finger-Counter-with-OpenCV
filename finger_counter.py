@@ -159,7 +159,7 @@ while True:
             fingers = count_fingers(thresholded, hand_segment)
 
             # Display finger count on screen
-            cv2.putText(frame_copy, str(fingers), (70, 45),
+            cv2.putText(frame_copy, str(fingers), (330, 80),
                         cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
 
             # Show thresholded hand image
