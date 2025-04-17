@@ -111,4 +111,3 @@ Inspired by tutorials and open-source contributions from the computer vision com
 ## 🤝 Contributing
 
 Pull requests, feature suggestions, and issues are welcome! Let's build this better together. ✨
-```
