@@ -1,8 +1,6 @@
 # Real-Time-Finger-Counter-with-OpenCV
 
-Absolutely! Here's the full `README.md` content in one block so you can easily copy and paste it into your repo:
 
-```markdown
 # ✋ Real-Time Finger Counter with OpenCV
 
 This project is a Python application that uses a webcam to detect and count the number of fingers held up in real time. It uses background subtraction, image segmentation, and contour analysis to achieve finger counting from a live video feed.
@@ -30,7 +28,6 @@ Install the dependencies:
 pip install opencv-python numpy scikit-learn
 ```
 
----
 
 ## 🚀 How It Works
 
