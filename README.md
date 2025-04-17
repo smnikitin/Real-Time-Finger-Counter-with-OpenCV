@@ -112,5 +112,3 @@ Inspired by tutorials and open-source contributions from the computer vision com
 
 Pull requests, feature suggestions, and issues are welcome! Let's build this better together. ✨
 ```
-
-Let me know if you want to customize it with your username or add demo media (like a `.gif` or image).
