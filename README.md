@@ -80,6 +80,8 @@ finger-counter-opencv/
 
 ## 📸 Screenshots
 
+![test1](https://github.com/smnikitin/Real-Time-Finger-Counter-with-OpenCV/blob/main/img/test1.JPG)
+
 <!-- Add your screenshots or demo GIF here -->
 <!-- Example: -->
 <!-- ![Demo](demo.gif) -->
